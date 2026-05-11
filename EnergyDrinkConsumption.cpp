@@ -1,5 +1,14 @@
-// EnergyDrinkConsumption.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+/*
+Program 2- 18 Energy Drink Consumption
+Filename EnergyDrinkConsumption.cpp
+Date 5/10/2026
+Programmer: Thomas Pressey
+
+Step 1. Create variables that hold the numbers: 16,500 for the customers and 0.15 for those who purchase one or more energy drinks per week.
+Step 2. Of those 16,500 58% prefer citrus flavor. Create a variable to hold this number as well.
+Step 3. Write a COUT statement that displays approximate number of customers in the survey who purchase one or more & The Appropriate number of customers who prefer citrus flavored drinks
+
+*/
 
 #include <iostream>
 #include <iomanip>
@@ -29,13 +38,3 @@
     }
 
 
-// Run program: Ctrl + F5 or Debug > Start Without Debugging menu
-// Debug program: F5 or Debug > Start Debugging menu
-
-// Tips for Getting Started: 
-//   1. Use the Solution Explorer window to add/manage files
-//   2. Use the Team Explorer window to connect to source control
-//   3. Use the Output window to see build output and other messages
-//   4. Use the Error List window to view errors
-//   5. Go to Project > Add New Item to create new code files, or Project > Add Existing Item to add existing code files to the project
-//   6. In the future, to open this project again, go to File > Open > Project and select the .sln file
